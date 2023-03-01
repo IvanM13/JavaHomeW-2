@@ -1,0 +1,13 @@
+ .gitignore
+Prog1.class
+        logProg2.txt
+        logProg4.txt
+    prog1.java
+prog2.class
+        prog2.java
+prog3.class
+        prog3.java
+prog4.class
+        prog4.java
+        testProg1.json
+        testProg3.json
